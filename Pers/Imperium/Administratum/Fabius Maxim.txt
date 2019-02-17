@@ -7,7 +7,7 @@
 <p style="font-size: 48px"><strong>Имя персонажа</strong></p><br/>
 <img src="/Pers/IMG/NONE.jpg width="256" height="256" alt="   "></a><p style="font-size: 24px">Имя: </p><p style="font-size: 24px">Фамилия: </p><p style="font-size: 24px">Возраст: </p><p style="font-size: 24px">Фракция: </p><p style="font-size: 24px">Дата подачи заявки в РП: </p><p style="font-size: 24px">Дата регистрации: </p><p style="font-size: 24px">Дата смерти персонажа: </p><p style="font-size: 24px">Звание: </p><p style="font-size: 24px">Инвентарь: </p><br/>
 
-<p style="font-size: 24px">Навыки: </p><br/><p style="font-size: 24px">Ближний бой: </p><p style="font-size: 24px">Дальний бой: </p><p style="font-size: 24px">Медицина: </p><p style="font-size: 24px">Ораторское искусство: </p><p style="font-size: 24px">Познания варпа: </p><p style="font-size: 24px">Ремесло: </p><p style="font-size: 24px">Техника: </p><p style="font-size: 24px">Фермерсвто: </p><p style="font-size: 24px">Животноводство: </p><br/>
+<p style="font-size: 24px">Навыки: </p><br/><p style="font-size: 24px">Ближний бой: </p><p style="font-size: 24px">: </p><p style="font-size: 24px">Дальний бой: </p><p style="font-size: 24px">Медицина: </p><p style="font-size: 24px">Ораторское искусство: </p><p style="font-size: 24px">Познания варпа: </p><p style="font-size: 24px">Ремесло: </p><p style="font-size: 24px">Техника: </p><p style="font-size: 24px">Фермерсвто: </p><p style="font-size: 24px">Животноводство: </p><br/>
 <p style="font-size: 24px">Семейное положение: </p><br/>
 <p style="font-size: 24px">Отец: </p>
 <p style="font-size: 24px">Мать: </p>
