@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Профиль персонажа:</title>
+<link rel="shortcut icon" href="/Icon/favicon.ico" type="image/x-icon">
+</head>
+<body>
+<p style="font-size: 48px"><strong>Имя персонажа</strong></p>
+</body>
+</html>
